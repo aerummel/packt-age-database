@@ -12,6 +12,8 @@ import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
+import android.example.agedatabase.R;
+
 public class PersonProvider extends ContentProvider {
 
     private static final int PEOPLE = 100;

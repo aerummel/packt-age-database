@@ -14,7 +14,7 @@ public class PeopleContract {
 
     public static final class PersonEntry implements BaseColumns {
 
-        public static final Uri CONTENT_URI = Uri.withAppendedPath(BASE_CONTENT_URI,PATH_PEOPLE);
+        public static final Uri CONTENT_URI = Uri.withAppendedPath(BASE_CONTENT_URI, PATH_PEOPLE);
         public static final String TABLE_NAME = "people";
 
         public static final String _ID = BaseColumns._ID;
