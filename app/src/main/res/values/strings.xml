@@ -11,4 +11,7 @@
     <string name="menu_delete">Delete</string>
     <string name="menu_search">Search</string>
     <string name="menu_results">Results</string>
+
+    <string name="toast_insert_error">Error with saving to database</string>
+    <string name="toast_insert_success">Saved</string>
 </resources>
