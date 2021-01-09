@@ -14,4 +14,6 @@
 
     <string name="toast_insert_error">Error with saving to database</string>
     <string name="toast_insert_success">Saved</string>
+
+    <string name="toast_delete_success">Deleted</string>
 </resources>
